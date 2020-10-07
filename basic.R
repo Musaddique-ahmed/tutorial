@@ -195,7 +195,7 @@ var1 <- 1
 ls(pattern = "var")
 rm(list = ls(pattern = "var")) # will remove all variables with var text in it
 
-#Operators In R
+#Operaters in R
 
 ''' operators : 1.Arthmetic - +,-,*,/,^,%%,%/%
             2.Relational - >,<,>=,<=,==,!=
@@ -203,7 +203,7 @@ rm(list = ls(pattern = "var")) # will remove all variables with var text in it
             4.Assignmet - a. Leftwards assignment - <-, <<-, =
                           b. Rightwards assignment - ->, ->>
 '''
-# Defining Arthmetic Opertor
+# Defining Arithmatic operaters
 
 n <- c(1, 2.4, 5)
 o <- c(3, 4.7, 9.1)
