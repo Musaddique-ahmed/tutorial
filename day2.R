@@ -8,10 +8,10 @@ ahmed<-data.frame(name=c('a','b','c','d'),age=c(22,21,22,21),marks=c(88,89,88,87
 ahmed
 x <- c(0:10, 50)
 x
-xm <- mean(x)
+xm <- mean(x) #pushing mean of x into xm
 xm
 c(xm, mean(x, trim = 0.10))
-d<-c(2,3,4,5,6)
+d<-c(2,3,4,5,6) #pushing the array into d
 d
 dm <-mean(d) #pushing mead of d into dm
 dm
