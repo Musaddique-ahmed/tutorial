@@ -72,7 +72,7 @@ Im(x) # print Imaginary Numbers
 
 # defining a charector
 a<-'a'
-class(a)
+class(a)  #to find class of a
 LETTERS
 x<-LETTERS[1:6] #sequesnce of letters in caps
 x
@@ -82,8 +82,8 @@ y
 # Defining Logical value
 a<-TRUE #T
 b<- FALSE #F
-class(a)
-class(b)
+class(a) #to find class of a
+class(b)   #to find class of b
 
 # Logical --> Integer --> Numeric --> complex --> Char
 0
