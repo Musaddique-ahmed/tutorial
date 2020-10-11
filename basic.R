@@ -43,12 +43,12 @@ _var_name <- 7 # cannot start with _
 '''
 # Defining a Numeric data type 
 # All the numbers will come under this data type
-a<-1
-class(a)
+a<-1  #push value 1 into x
+class(a)   # to find the class of a
 
-a<-134
-a
-class(a)
+a<-134   #push 134 into x
+a   #display a
+class(a)   #find class of a
 
 # Defining an integer (takes only Integer value)
 a<-1L
