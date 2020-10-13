@@ -14,7 +14,7 @@
 x<-2+2  # storing a value 
 x
 a # can't define a character variable like this
-"a" # A character variable must be define in the qutations
+"a" # A character variable must be define in the quotations
 a<-'a' 
 a
 
