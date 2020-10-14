@@ -21,7 +21,7 @@ a
 # Variables or Objects in R
 
 # valid & invalid variable types
-# Valid
+# Valid 
 # only takes character,number, _ , .
 var_name2. <- 1 # Has letters, numbers, dot and underscore
 .var_name <- 2 # Can start with a dot(.) but the dot(.)should not be followed by a number
