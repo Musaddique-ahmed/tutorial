@@ -6,7 +6,7 @@ x<-list(name=c('a','b','c','d'),age=c(22,21,22,21),marks=c(88,89,88,87),charecte
 x
 ahmed<-data.frame(name=c('a','b','c','d'),age=c(22,21,22,21),marks=c(88,89,88,87),charecter=c('good','staisfactory','good','satisfactory'))
 ahmed
-x <- c(0:10, 50)
+x <- c(0:10, 50) #vector
 x
 xm <- mean(x) #pushing mean of x into xm
 xm
