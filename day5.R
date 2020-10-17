@@ -35,7 +35,7 @@ if ( test_expression1) {
   statement3
   } else  statement4
 
-x <- 0
+x <- 0 #push 0 into x
 if (x < 0) {
   print("Negative number")
 } else if (x > 0) {
