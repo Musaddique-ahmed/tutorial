@@ -4,7 +4,7 @@ library(nycflights13)
 data(flights)
 head(flights)
 flights<-data.frame(flights)
-#overview of the data
+#overview of the data 
 glimpse(flights)
 #Select required rows and columns
 # dplyr approach
