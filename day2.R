@@ -18,4 +18,4 @@ dm
 median(1:4)  #median from 1 to 4
 median(1,5,6,8,9,7,5,6,8,9,4,5,2,1,3,66,4,8,9)   #to find median of given data
 a<-c(1,2,3,3,4)
-mode(a)    #to find the mode of a
+mode(a)    #to find the modeof a
