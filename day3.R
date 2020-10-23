@@ -19,7 +19,7 @@ summary(airquality$Wind)
 summary(airquality$Month)
 
 #plots
-################
+###########
 
 
 plot(airquality$Wind)
