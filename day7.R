@@ -1,4 +1,4 @@
-# Join (Merge) data frames (inner, outer, left, right) 
+# Join (Merge) data frames (inner, outer, left, right)    
 df1 = data.frame(CustomerId = c(1:6), Product = c(rep("Oven", 3), rep("Television", 3)))
 df1
 df2 = data.frame(CustomerId = c(2, 4, 6,7), State = c(rep("California", 3), rep("Texas", 1)))
