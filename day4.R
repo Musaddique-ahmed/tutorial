@@ -1,6 +1,6 @@
 ﻿install.packages("dplyr")
 library(dplyr)
-library(nycflights13)
+library(nycflights13)   
 data(flights)
 head(flights)
 flights<-data.frame(flights)
