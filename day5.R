@@ -1,6 +1,6 @@
 # Decision Making/ conditional Statements in R
 # If Statement
-# Syntax:   
+# Syntax::
 if (test_expression) {
   statement
   }
