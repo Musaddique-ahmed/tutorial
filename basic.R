@@ -6,7 +6,7 @@
 # Auckland, Newzealand
 
 
-# R is a case sensitive 
+# R is a case sensitivee
 
 ## Define a value in R
 1
