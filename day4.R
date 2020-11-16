@@ -15,7 +15,7 @@ filter(flights, month==1, day==1,origin=="EWR")
 # use pipe for OR condition
 filter(flights, carrier=="AA" | carrier=="UA")
 
-#“Chaining” or “Pipelining”
+#“Chaining” or “Pipelining”.
 # chaining method
 flights %>%
   select(carrier, dep_delay) %>%
